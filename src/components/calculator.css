@@ -1,0 +1,54 @@
+#itemInput {
+  display: flex;
+  text-align: right;
+  height: 40px;
+  font-size: 20px;
+  padding: 0 7px;
+  color: rgb(255, 255, 255);
+  background-color: rgb(83, 83, 83);
+  grid-area: input;
+}
+#item0 { grid-area: zero;}
+#item1 { grid-area: one;}
+#item2 { grid-area: two;}
+#item3 { grid-area: three;}
+#item4 { grid-area: four;}
+#item5 { grid-area: five;}
+#item6 { grid-area: six;}
+#item7 { grid-area: seven;}
+#item8 { grid-area: eight;}
+#item9 { grid-area: nine;}
+#itemAC { grid-area: AC;}
+#itemPlusMinus { grid-area: plusMinus;}
+#itemModulus { grid-area: modulus;}
+#itemDivide { grid-area: divide;}
+#itemMultiply { grid-area: multiply;}
+#itemMinus { grid-area: minus;}
+#itemPlus { grid-area: plus;}
+#itemEqual { grid-area: equal;}
+#itemPeriod { grid-area: period;}
+
+main {
+  display: grid;
+  width: fit-content;
+  border: 2px solid #000;
+  grid-template-areas: 
+    'input input input input'
+    'AC plusMinus modulus divide'
+    'seven eight nine multiply'
+    'four five six minus'
+    'one two three plus'
+    'zero zero period equal';
+}
+
+.btn {
+  border: 0.2px solid #000;
+  /* width: 70px; */
+  height: 30px;
+}
+
+.special {
+  background-color: #f5913e;
+}
+
+
