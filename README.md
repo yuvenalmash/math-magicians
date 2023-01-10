@@ -31,7 +31,7 @@
 
 > Describe your project in 1 or 2 sentences.
 
-**Math magicians** is a...
+**Math magicians** is a website for all fans of mathematics. It is a single page app (SPA) that allows users to make simple calculations and read random math-related quotes.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -53,22 +53,13 @@
   </ul>
 </details>
 
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
-
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[Calculator]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -86,21 +77,29 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-
 To get a local copy up and running, follow these steps.
+- Clone the repository to your folder
+  ```sh
+    $ git clone https://github.com/yuvenalmash/math-magicians.git
+  ```
+- While in the cloned repository folder, install node packages
+  ```sh
+    $ npm install
+  ```
+- Run local server
+  ```sh
+    $ npm start
+  ```
 
 ### Prerequisites
 
 In order to run this project you need:
 
-<!--
-Example command:
+- Install NPM:
 
 ```sh
- gem install rails
+ $ sudo apt install npm
 ```
- -->
 
 ### Setup
 
