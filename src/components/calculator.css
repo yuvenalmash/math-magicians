@@ -1,6 +1,7 @@
 #itemInput {
   display: flex;
-  text-align: right;
+  justify-content: flex-end;
+  align-items: center;
   height: 40px;
   font-size: 20px;
   padding: 0 7px;
@@ -43,8 +44,7 @@ main {
 
 .btn {
   border: 0.2px solid #000;
-
-  /* width: 70px; */
+  min-width: 70px;
   height: 30px;
 }
 
