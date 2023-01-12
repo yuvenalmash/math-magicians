@@ -76,10 +76,12 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 - Clone the repository to your folder
+
   ```sh
     $ git clone https://github.com/yuvenalmash/math-magicians.git
   ```
 - While in the cloned repository folder, install node packages
+  
   ```sh
     $ npm install
   ```
@@ -88,9 +90,10 @@ Clone this repository to your desired folder:
 ### Usage
 
 To run the project, execute the following command:
+- Run local server
 
   ```sh
-    npm start
+    $ npm start
   ```
 
 ### Run tests
