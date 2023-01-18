@@ -50,7 +50,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo Link](https://yuvenalmash.github.io/math-magicians/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -97,27 +97,16 @@ To run the project, execute the following command:
 
 ### Run tests
 
-To run tests, run the following command:
-
-<!--
-Example command:
-
 ```sh
-  bin/rails test test/models/article_test.rb
+  npm run test
 ```
---->
 
 ### Deployment
 
-You can deploy this project using:
-
-<!--
-Example:
 
 ```sh
-
+  npm run deploy
 ```
- -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
