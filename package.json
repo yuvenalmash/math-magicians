@@ -2,7 +2,7 @@
   "name": "math-magicians",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yuvenalmash.github.io/react-todo",
+  "homepage": "https://yuvenalmash.github.io/math-magicians/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
