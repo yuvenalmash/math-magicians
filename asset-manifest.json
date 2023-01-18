@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-todo/static/css/main.5efb39c1.css",
-    "main.js": "/react-todo/static/js/main.a5bc31ed.js",
-    "index.html": "/react-todo/index.html",
-    "main.5efb39c1.css.map": "/react-todo/static/css/main.5efb39c1.css.map",
-    "main.a5bc31ed.js.map": "/react-todo/static/js/main.a5bc31ed.js.map"
+    "main.css": "/math-magicians/static/css/main.5efb39c1.css",
+    "main.js": "/math-magicians/static/js/main.a5bc31ed.js",
+    "index.html": "/math-magicians/index.html",
+    "main.5efb39c1.css.map": "/math-magicians/static/css/main.5efb39c1.css.map",
+    "main.a5bc31ed.js.map": "/math-magicians/static/js/main.a5bc31ed.js.map"
   },
   "entrypoints": [
     "static/css/main.5efb39c1.css",
