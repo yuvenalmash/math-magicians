@@ -40,7 +40,7 @@ nav ul {
 }
 
 .navBtn {
-  color: #a239ca;;
+  color: #a239ca;
   background-color: #0e0b1600;
   border: 2px #a239ca;
   border-style: dotted;
@@ -50,7 +50,8 @@ nav ul {
 }
 
 button:hover {
-  color:#fc4a1a;
+  color: #fc4a1a;
+
   /* color: #4717f6; */
   border: 2px solid #fc4a1a;
 }
@@ -72,5 +73,5 @@ footer {
 h1 {
   font-size: 50px;
   color: #a239ca;
-  text-decoration: underline overline #4717f6 ;
+  text-decoration: underline overline #4717f6;
 }
