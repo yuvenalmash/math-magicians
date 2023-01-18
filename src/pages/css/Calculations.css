@@ -1,0 +1,11 @@
+#calculationsContainer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  width: 90%;
+}
+
+#calculationsH1 {
+  height: fit-content;
+  color: #a239ca;
+}

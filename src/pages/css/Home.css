@@ -1,0 +1,10 @@
+#homeContainer {
+  display: flex;
+  flex-direction: column;
+  max-width: 800px;
+  gap: 15px;
+}
+
+.homeP {
+  font-size: 23px;
+}

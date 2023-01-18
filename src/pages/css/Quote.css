@@ -1,0 +1,12 @@
+#quoteContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  width: 60%;
+  text-align: center;
+}
+
+#quoteP {
+  font-size: 35px;
+  text-shadow: 0 2px #4717f6;
+}
