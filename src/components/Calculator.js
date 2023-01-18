@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './calculator.css';
+import './Calculator.css';
 import calculate from '../logic/calculate';
 
 const Calculator = () => {
@@ -13,7 +13,7 @@ const Calculator = () => {
   };
 
   return (
-    <main>
+    <div className="calcContainer">
       <div id="itemInput">
         {total}
         {operation}
@@ -38,7 +38,7 @@ const Calculator = () => {
       <button id="itemPlus" className="btn special" name="+" onClick={handleCalculate} type="button">+</button>
       <button id="itemEqual" className="btn special" name="=" onClick={handleCalculate} type="button">=</button>
       <button id="itemPeriod" className="btn" name="." onClick={handleCalculate} type="button">•</button>
-    </main>
+    </div>
   );
 };
 
