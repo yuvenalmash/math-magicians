@@ -21,6 +21,11 @@
   background-color: #a139ca18;
 }
 
+#logo:hover {
+  color: #fc4a1a;
+  box-shadow: 0 1px 30px #fc4a1a;
+}
+
 nav {
   display: flex;
   align-items: center;
